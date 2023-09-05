@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @VanhNg123
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ Come from Viet Nam with love
+- 📫 
 
 <!---
 VanhNg123/VanhNg123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
